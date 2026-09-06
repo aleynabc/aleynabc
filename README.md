@@ -55,7 +55,7 @@ Stardew Valley için C# ve SMAPI kullanılarak sıfırdan geliştirdiğim, oyun 
 </p>
 
 **[AgeOfHistory2Bot](https://github.com/aleynabc/AgeOfHistory2Bot)**
-Age of History 2 için geliştirdiğim, çok dilli (8 dil) bir masaüstü konsol/cheat komut botu. Aynı komutları elle tek tek yazmak yerine hızlı ve güvenilir bir arayüzden göndermeyi sağlıyor; ASCII tabanlı güvenli komut iletimi ve pencere konumu koruma gibi kullanıcı deneyimi detaylarını içeriyor.
+Age of History 2 için geliştirdiğim, çok dilli (3 dil) bir masaüstü konsol/cheat komut botu. Aynı komutları elle tek tek yazmak yerine hızlı ve güvenilir bir arayüzden göndermeyi sağlıyor; ASCII tabanlı güvenli komut iletimi ve pencere konumu koruma gibi kullanıcı deneyimi detaylarını içeriyor.
 `Python` `PyInstaller` `Desktop App`
 
 <p align="center">
@@ -110,7 +110,7 @@ A C# and SMAPI-based mod for Stardew Valley that I built from scratch to add an 
 </p>
 
 **[AgeOfHistory2Bot](https://github.com/aleynabc/AgeOfHistory2Bot)**
-A multilingual (8 languages) desktop console/cheat-command bot I developed for Age of History 2. Rather than typing the same commands repeatedly by hand, it lets the player send them quickly and reliably through a dedicated interface, with details such as ASCII-safe command transmission and persistent window positioning.
+A multilingual (3 languages) desktop console/cheat-command bot I developed for Age of History 2. Rather than typing the same commands repeatedly by hand, it lets the player send them quickly and reliably through a dedicated interface, with details such as ASCII-safe command transmission and persistent window positioning.
 `Python` `PyInstaller` `Desktop App`
 
 <p align="center">
